@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.website__p {
+    color: red;
+    font-size: 200px;
+    font-weight: bold;
+}
